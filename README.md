@@ -35,6 +35,3 @@ The most suitable method to track multiple moving objects simultaneously is to s
 </div>
 
 ![project_workflow](https://github.com/karl-gardner/object_tracking/assets/91646805/7671b392-249d-4b68-b6ed-faeccec956e5)
-
-
- **Authors:**<br>Karl Gardner<br><br>
