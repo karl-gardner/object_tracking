@@ -37,7 +37,4 @@ The most suitable method to track multiple moving objects simultaneously is to s
 ![project_workflow](https://github.com/karl-gardner/object_tracking/assets/91646805/7671b392-249d-4b68-b6ed-faeccec956e5)
 
 
- **Publication Authors:**<br>Karl Gardner, Md Mezbah Uddin, Linh Tran, Thanh Pham, Siva Vanapalli, and Wei Li<br><br>
- 
- **Publication Acknowledgements:**<br>WL acknowledge support from National Science Foundation (CBET, Grant No. 1935792) and National Institute of Health (IMAT, Grant No. 1R21CA240185-01).
-</details>
+ **Authors:**<br>Karl Gardner<br><br>
